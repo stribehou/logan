@@ -7,7 +7,7 @@ extensions:
  - out
 
 directories:
- - /var/log
- - /Users/jonathan/temp
+ - /home/iwd/logs/dev-env
+ - /home/iwd/logs/fr-iwd
 
  
